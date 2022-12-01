@@ -1,0 +1,24 @@
+# TypeScript - Grundlagen
+
+## Was ist TypeScript?
+
+TypeScript ist ein Superset von JavaScript und erweitert JavaScript um eine starke Typisierung. TypeScript ist daher zu 100% kompatibel zu JavaScript, aber JavaScript ist nicht kompatibel mit TypeScript. 
+
+Mit TypeScript lassen sich Web-Applikationen, Mobile-Applikationen (iOS, Android) und Backend-Applikationen erstellen.
+
+## Warum TypeScript lernen?
+TypeScript bietet sehr viele Programmierkonzepte, die in vielen anderen Programmiersprachen verwendet werden. Somit können diese Konzepte leicht auf andere Programmiersprachen wie z.B. Java, C#, Python oder Swift übertragen werden.
+
+Sind Kenntnisse in HTML und CSS bereits vorhanden, können Ergebnisse durch TypeScript-Code schnell optisch dargestellt werden. Die Motivation ist hierdurch sehr hoch!
+
+
+
+
+## TypeScript installieren
+...
+
+### node.js
+...
+
+
+## TypeScript zu JavaScript transpilieren
