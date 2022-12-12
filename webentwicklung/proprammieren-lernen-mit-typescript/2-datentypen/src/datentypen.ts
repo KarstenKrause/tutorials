@@ -50,6 +50,7 @@ let god: any = "allmächtig";
 console.log(typeof god);
 god = 42;
 console.log(typeof god);
+
 /**
  * Type inference:
  * Eine Variable/Konstante nimmt ohne Typ-anotation automatisch den Typ ihrer Zuweisung an.
