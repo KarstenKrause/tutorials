@@ -1,4 +1,13 @@
-# Programmieren lernen mit Swift 
+# Programmieren lernen mit 
+
+<span>
+<h1>
+Programmieren lernen mit 
+</h1>
+<img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.png"
+     alt="Swift"
+     style="float: left; margin-right: 10px; width: 10%; height: 10%;" />
+</span>
 
 ## Warum Swift lernen?
 Swift ist die Programmiersprache, mit der aktuell Anwendungen für alle Apple-Platformen entwickelt werden.
